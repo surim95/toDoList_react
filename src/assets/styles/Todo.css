@@ -1,0 +1,12 @@
+main {
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    background: #fff;
+}
+main input{
+    font-size: 1.2rem;
+}
+main input button{}

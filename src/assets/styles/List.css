@@ -1,0 +1,15 @@
+li {
+    border-bottom: 1px solid #aaa;
+    padding: 4px 0;
+}
+li input {
+    margin-right: 6px;
+}
+li span {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+li button {
+    float: right;
+    color: #aaa;
+}
